@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.function.*;
 import java.util.stream.*;
 
-public class labo13 {
+public class labor13 {
 
     // Student классы (14-тапсырма үшін)
     static class Student {
